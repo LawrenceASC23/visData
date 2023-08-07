@@ -1,0 +1,35 @@
+body {
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+
+h1 {
+    font-size: 20px;
+}
+
+
+
+.flex_container {
+    display: flex;
+    margin: auto;
+    margin-top: 10%;
+    padding: 20px;
+    background-color: rgb(245, 245, 245);
+    width: 35%;
+    height: 300px;
+    
+}
+
+
+.flex_item {
+    width: 50%;
+}
+
+
+#counter {
+    text-align: end;
+    margin: 0px 5px 5px 0px;
+    font-size: smaller;
+    color: gray;
+    font-weight: bolder;
+}
